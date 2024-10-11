@@ -2,13 +2,14 @@ nav{
 	display: flex;
 	position: relative;
   	top: 0px;
+  	left: 50px;
+  	right: 50px;
 	height: 211px;
 	width: 1440px;
 	background: #3F37C9;
 	box-shadow: 21px 21px 83.9px black;
 	border: 10px solid black;
 	border-radius: 50px;
-	padding: 2 rem 3 rem;
 }
 
 h1{
