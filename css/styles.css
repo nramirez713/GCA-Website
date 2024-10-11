@@ -1,7 +1,7 @@
 nav{
 	display: flex;
 	justify-content: space-evenly;
-	background: #ffff;
+	background: #3F37C9;
 	padding: 2rem 2rem;
 	box-shadow: 21px 21px 83.9px black;
 }
@@ -15,7 +15,7 @@ nav ul{
 }
 
 body{
-	background: #000000;
+	background: #ffff;
 	color: FFFFFF;
 	font-family: monospace;
 }
