@@ -1,7 +1,7 @@
 nav{
 	display: flex;
 	justify-content: space-evenly;
-	position: fixed;
+	position: relative;
   	top: 0;
   	center: 0;
 	height: 211px;
