@@ -4,7 +4,7 @@ nav{
 	background: #3F37C9;
 	padding: 2rem 2rem;
 	box-shadow: 21px 21px 83.9px black;
-	border: 10px 10px black;
+	border-inline: 10px;
 }
 
 nav ul{
