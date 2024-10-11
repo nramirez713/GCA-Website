@@ -1,6 +1,7 @@
 nav{
 	display: flex;
 	justify-content: space-evenly;
+	position: static;
 	height: 211px;
 	width: 1440px;
 	background: #3F37C9;
