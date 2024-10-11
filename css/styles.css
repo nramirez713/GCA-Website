@@ -11,7 +11,7 @@ nav{
 }
 
 nav a{
-	right: 80px;
+	position: absolute;
 }
 
 nav ul{
