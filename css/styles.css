@@ -1,8 +1,9 @@
 nav{
 	display: flex;
 	justify-content: space-evenly;
-	background: #3F37C9;
+	background: #ffff;
 	padding: 2rem 2rem;
+	box-shadow: 10px 10px;
 }
 
 nav ul{
