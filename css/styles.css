@@ -10,6 +10,10 @@ nav{
 	border-radius: 50px;
 }
 
+a{
+	right: 10px;
+}
+
 nav ul{
 	display: flex;
 	list-style: none;
