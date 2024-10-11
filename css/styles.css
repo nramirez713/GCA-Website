@@ -11,8 +11,8 @@ nav{
 }
 
 h1{
-	position: relative;
-	top: 0px;
+	position: absolute;
+	top: -0px;
 	left: 0px;
 }
 
