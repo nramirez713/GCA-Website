@@ -1,6 +1,6 @@
 nav{
 	display: flex;
-	justify-content: space-evenly;
+	justify-content: space-around;
 	position: relative;
   	top: 0px;
 	height: 211px;
