@@ -2,7 +2,7 @@ nav{
 	display: flex;
 	position: relative;
   	top: 0px;
-	height: 209px;
+	height: 211px;
 	width: 1440px;
 	background: #3F37C9;
 	box-shadow: 21px 21px 83.9px black;
@@ -12,7 +12,7 @@ nav{
 
 h1{
 	position: absolute;
-	top: -15px;
+	top: -15.5px;
 	left: 0px;
 }
 
