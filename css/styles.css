@@ -22,7 +22,7 @@ nav ul{
 	margin: 0;
 	padding: 0;
 	gap: 40px;
-	position: center;
+	position: absolute;
 	justify-content: space-evenly;
 	right: 0px;
 }
