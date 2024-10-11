@@ -10,8 +10,11 @@ nav{
 	border-radius: 50px;
 }
 
-h1{
-	position: relative;
+img.navigation-logo{
+	position: absolute;
+	top: 20px;
+	right: 30px;
+}
 
 }
 
