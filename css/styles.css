@@ -18,6 +18,7 @@ nav ul{
 	padding: 0;
 	gap: 40px;
 	position: center;
+	justify-content: space-evenly;
 }
 
 body{
