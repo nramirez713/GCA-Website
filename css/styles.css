@@ -47,7 +47,7 @@ section{
 	position: relative;
 }
 
-img.logo-detailed-image{
-	position: absolute;
+section img.logo-detailed-image{
+	position: relative;
 
 }
