@@ -24,6 +24,7 @@ nav ul{
 	gap: 40px;
 	position: center;
 	justify-content: space-evenly;
+	right: 0px;
 }
 
 body{
