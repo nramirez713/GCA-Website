@@ -14,13 +14,6 @@ nav {
 	border-radius: 50px;
 }
 
-@media screen and (max-width: 100px) {
-	section{
-		flex-direction: column;
-	}
-
-}
-
 h1 {
 	position: absolute;
 	top: -62px;
@@ -74,6 +67,13 @@ section {
   	background: #3F37C9;
   	height: 455px;
 	width: 1440px;
+}
+
+@media screen and (max-width: 100px) {
+	section{
+		flex-direction: column;
+	}
+
 }
 
 p.text-1 {
