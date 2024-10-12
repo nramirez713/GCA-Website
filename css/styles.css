@@ -65,7 +65,7 @@ section{
 	width: 1440px;
 }
 
-p{
+p.text-1{
 	position: absolute;
 	top: 0px;
 	left: 40px;
