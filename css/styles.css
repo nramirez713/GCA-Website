@@ -89,6 +89,8 @@ footer{
   	right: 65px;
   	height: 132px;
 	width: 1440px;
+	border: 10px solid black;
+	border-radius: 50px;
 }
 
 footer ul{
