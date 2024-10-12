@@ -101,6 +101,7 @@ p.text-2 {
 
 footer {
 	display: flex;
+	justify-content: space-evenly;
 	position: relative;
 	background: url("../images/background-for-footer.svg");
 	top: -130px;
