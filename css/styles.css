@@ -104,7 +104,7 @@ p.text-2 {
 footer {
 	position: relative;
 	background: url("../images/background-for-footer.svg");
-	top: 0px;
+	top: -200px;
 	left: 55px;
   	right: 65px;
 }
