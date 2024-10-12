@@ -103,5 +103,6 @@ footer a{
 	position: absolute;
 	justify-content: space-evenly;
 	top: 20px;
+	left: 20px;
 	right: 30px;
 }
