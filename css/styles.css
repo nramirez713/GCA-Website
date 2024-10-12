@@ -48,6 +48,10 @@ header{
   	right: 65px;
 }
 
+img{
+	max-width: 100%;
+}
+
 img.layered-header-logo{
 	position: absolute;
 	top: 300px;
