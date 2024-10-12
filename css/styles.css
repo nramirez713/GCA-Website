@@ -41,6 +41,7 @@ nav ul {
 
 body {
 	background: #000000;
+	background-image: url("../images/background-image.jpg");
 	color: white;
 	font-family: "Space Mono", monospace;
   	font-weight: 400;
