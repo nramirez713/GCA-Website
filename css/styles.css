@@ -84,7 +84,9 @@ p.text-2{
 footer{
 	position: relative;
 	background: #560BAD;
-	top: 0px;
+	top: -100px;
+	left: 63px;
+  	right: 65px;
 }
 
 footer ul{
