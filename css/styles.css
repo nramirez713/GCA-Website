@@ -17,8 +17,6 @@ nav {
 @media screen and (max-width: 480px) {
 	nav{
 		flex-direction: column;
-		gap: 1rem;
-		align-items: flex-start;
 	}
 
 }
