@@ -74,9 +74,11 @@ p.text-1{
 }
 
 p.text-2{
-	top: 0px;
+	position: absolute;
+	top: 10px;
 	left: 40px;
 	right: 50px;
+	margin: 10px;
 }
 
 footer{
