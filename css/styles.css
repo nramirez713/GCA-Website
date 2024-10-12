@@ -53,8 +53,8 @@ body {
 header {
 	position: relative;
 	top: 0px;
-  	left: 63px;
-  	right: 65px;
+  	left: 0px;
+  	right: 0px;
 }
 
 img {
