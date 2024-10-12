@@ -61,6 +61,13 @@ section{
 	top: 30px;
 }
 
+h2{
+	position: absolute;
+	top: 20px;
+	left: 30x;
+	margin: 10px;
+}
+
 p{
 	position: absolute;
 	top: 20px;
