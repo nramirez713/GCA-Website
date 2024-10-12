@@ -48,6 +48,12 @@ header{
 	top: 30px;
 }
 
+img.layered-header-logo{
+	position: absolute;
+	right: 50px;
+	left: 50px;
+}
+
 section{
 	position: relative;
 	top: 30px;
