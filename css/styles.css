@@ -45,7 +45,9 @@ body{
 
 header{
 	position: relative;
-	top: 30px;
+	top: 0px;
+  	left: 50px;
+  	right: 50px;
 }
 
 img.layered-header-logo{
