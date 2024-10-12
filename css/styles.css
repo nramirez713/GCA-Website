@@ -52,7 +52,7 @@ body {
 
 header {
 	position: relative;
-	top: 0px;
+	top: -10px;
   	left: 63px;
   	right: 65px;
 }
