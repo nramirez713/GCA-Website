@@ -73,6 +73,14 @@ p.text-1{
 	margin: 10px;
 }
 
+p.text-2{
+	position: absolute;
+	top: 0px;
+	left: 40px;
+	right: 50px;
+	margin: 10px;
+}
+
 footer{
 	position: relative;
 	bottom: 30px;
