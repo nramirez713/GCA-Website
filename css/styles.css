@@ -105,7 +105,10 @@ footer ul{
 	top: 20px;
 	left: 20px;
 	right: 30px;
-	font-size: 5px;
+	font-family: "Space Mono", monospace;
+  	font-weight: 700;
+  	font-style: normal;
+  	font-size: 10px;
 }
 
 a{
