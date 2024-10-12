@@ -8,7 +8,7 @@ nav {
   	right: 50px;
 	height: 211px;
 	width: 1440px;
-	background-image: #3F37C9;
+	background: #3F37C9;
 	box-shadow: 21px 21px 83.9px black;
 	border: 10px solid black;
 	border-radius: 50px;
@@ -100,7 +100,6 @@ p.text-2 {
 }
 
 footer {
-	display: flex;
 	position: relative;
 	background: url("../images/background-for-footer.svg");
 	top: -130px;
