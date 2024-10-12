@@ -8,7 +8,6 @@ nav{
   	right: 50px;
 	height: 211px;
 	width: 1440px;
-	
 	background: #3F37C9;
 	box-shadow: 21px 21px 83.9px black;
 	border: 10px solid black;
@@ -61,6 +60,9 @@ section{
 	top: -100px;
 	left: 63px;
   	right: 65px;
+  	background: #3F37C9;
+  	height: 455px;
+	width: 1440px;
 }
 
 h2{
