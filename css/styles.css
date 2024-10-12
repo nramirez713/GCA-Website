@@ -99,9 +99,9 @@ footer ul{
 	list-style: none;
 	margin: 0;
 	padding: 0;
-	gap: 0px;
+	gap: 20px;
 	position: absolute;
-	justify-content: start space-evenly;
+	justify-content: start;
 	top: 20px;
 	left: 20px;
 	right: 30px;
