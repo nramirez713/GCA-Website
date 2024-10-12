@@ -101,7 +101,7 @@ footer ul{
 	padding: 0;
 	gap: 0px;
 	position: absolute;
-	justify-content: space-evenly;
+	justify-content: start;
 	top: 20px;
 	left: 20px;
 	right: 30px;
