@@ -93,7 +93,7 @@ footer{
 	border-radius: 50px;
 }
 
-footer a{
+footer ul{
 	display: flex;
 	color: white;
 	list-style: none;
