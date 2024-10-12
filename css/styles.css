@@ -65,18 +65,6 @@ section{
 	width: 1440px;
 }
 
-h2{
-	position: absolute;
-	top: 0px;
-	left: 40px;
-	right: 50px;
-	font-family: "Space Mono", monospace;
-  	font-weight: 400;
-  	font-style: normal;
-  	font-size: 49.53px;
-
-}
-
 p{
 	position: absolute;
 	top: 0px;
