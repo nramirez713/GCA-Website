@@ -53,8 +53,7 @@ body {
 header {
 	position: relative;
 	top: 0px;
-  	left: 63px;
-  	right: 65px;
+ 
   	background-image: url("../images/background-image.jpg");
   	background-repeat: no-repeat;
   	background-attachment: fixed;
