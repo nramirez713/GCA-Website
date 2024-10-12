@@ -45,7 +45,7 @@ body{
 
 header{
 	position: relative;
-	top: 0px;
+	top: -10px;
   	left: 50px;
   	right: 50px;
 }
