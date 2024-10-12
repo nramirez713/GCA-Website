@@ -58,7 +58,9 @@ img.layered-header-logo{
 
 section{
 	position: relative;
-	top: -110px;
+	top: -100px;
+	left: 63px;
+  	right: 65px;
 }
 
 h2{
