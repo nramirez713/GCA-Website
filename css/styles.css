@@ -3,7 +3,6 @@
 nav {
 	display: flex;
 	position: relative;
-	position: static;
   	top: 0px;
   	left: 50px;
   	right: 50px;
