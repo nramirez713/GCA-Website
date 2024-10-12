@@ -83,10 +83,10 @@ p.text-2{
 
 footer{
 	position: relative;
-	bottom: 30px;
+	background: #3F37C9;
 }
 
-ul{
+footer ul{
 	color: #FFFFFF;
 
 }
