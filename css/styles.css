@@ -95,6 +95,7 @@ footer{
 
 footer ul{
 	display: flex;
+	color: white;
 	list-style: none;
 	margin: 0;
 	padding: 0;
