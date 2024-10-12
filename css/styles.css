@@ -102,9 +102,9 @@ footer ul{
 	gap: 20px;
 	position: absolute;
 	justify-content: start;
-	top: 20px;
-	left: 20px;
-	right: 30px;
+	top: 30px;
+	left: 50px;
+	right: 60px;
 	font-family: "Space Mono", monospace;
   	font-weight: 700;
   	font-style: normal;
