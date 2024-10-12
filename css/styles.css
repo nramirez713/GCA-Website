@@ -64,7 +64,8 @@ section{
 h2{
 	position: absolute;
 	top: 20px;
-	left: 10x;
+	left: 10px;
+	right: 20px;
 	font-family: "Space Mono", monospace;
   	font-weight: 400;
   	font-style: normal;
