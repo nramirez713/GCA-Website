@@ -146,9 +146,9 @@ a:hover {
 
 h3 ul{
 	display: flex;
-	position: relative;
+	position: absolute;
 	justify-content: end;
-	top: 0px;
+	top: 10px;
 	left: 270px;
 	right: 260px;
 }
