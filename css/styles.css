@@ -144,7 +144,7 @@ a:hover {
 	text-decoration: underline;
 }
 
-footer h3{
+h3 ul{
 	display: flex;
 	position: relative;
 	justify-content: end;
