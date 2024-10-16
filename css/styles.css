@@ -143,3 +143,11 @@ a {
 a:hover {
 	text-decoration: underline;
 }
+
+h3{
+	position: absolute;
+	justify-content: start;
+	top: 40px;
+	left: 260px;
+	right: 270px;
+}
