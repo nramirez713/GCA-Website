@@ -146,7 +146,7 @@ a:hover {
 
 footer h3{
 	display: flex;
-	position: absolute;
+	position: revert;
 	justify-content: end;
 	top: -79px;
 	left: 270px;
