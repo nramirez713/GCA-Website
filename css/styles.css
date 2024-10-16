@@ -148,7 +148,7 @@ footer h3{
 	display: flex;
 	position: relative;
 	justify-content: end;
-	top: -79px;
+	top: 0px;
 	left: 270px;
 	right: 260px;
 }
