@@ -31,6 +31,7 @@ nav {
 	}
 
 	section {
+		position: relative;
 		left: 63px;
   		right: 65px;
   		background: #3F37C9;
