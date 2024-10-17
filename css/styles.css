@@ -29,6 +29,17 @@ nav {
 	nav {
 		flex-direction: column;
 	}
+	nav ul {
+		display: flex;
+		list-style: none;
+		margin: 0;
+		padding: 0;
+		gap: 40px;
+		position: absolute;
+		justify-content: space-evenly;
+		top: 20px;
+		right: 30px;
+	}
 
 	section {
 		position: relative;
