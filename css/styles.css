@@ -156,7 +156,7 @@ h4 p {
 	display: flex;
 	position: absolute;
 	justify-content: end;
-	size: 20px;
+	font-size: 32px;
 	top: 20px;
 	left: 270px;
 	right: 260px;
@@ -165,7 +165,7 @@ h5 p {
 	display: flex;
 	position: absolute;
 	justify-content: end;
-	size: 10px;
+	font-size: 20px;
 	top: 20px;
 	left: 270px;
 	right: 260px;
