@@ -15,7 +15,11 @@ nav {
 }
 
 @media screen and (max-width: 900px) {
-	nav{
+	body {
+		justify-content: stretch;
+	}
+
+	nav {
 		flex-direction: column;
 	}
 
